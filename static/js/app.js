@@ -55,6 +55,8 @@ function bubblechart(){
   
 }  
 
+
+
 init();
 
 // optionChanged(subject_ids[0]);
