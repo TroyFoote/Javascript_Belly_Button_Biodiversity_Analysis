@@ -1,4 +1,5 @@
-# Project Title: belly_button_challenge
+# belly_button_challenge
+
 
 ## Project Description
 
@@ -19,8 +20,6 @@ Create an interactive dashboard to explore the Belly Button Biodiversity dataset
 
 2. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
-image.png
-
 * Use *sample_values* as the values for the bar chart.
 * Use *otu_ids* as the labels for the bar chart.
 * Use *otu_labels* as the hovertext for the bar chart.
@@ -40,3 +39,6 @@ image.png
 6. Update all the plots when a new sample is selected.
 
 7. Deploy your app to a free static page hosting service such as GitHub pages. 
+
+##### see my GitHub page here 
+https://troyfoote.github.io/belly_button_challenge/
