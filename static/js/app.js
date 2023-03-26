@@ -45,6 +45,16 @@ function init() {
   })
 }
 
+function optionChanged(subject_id){
+    barchart(subject_id);
+    bubblechart(subject_id);}
+function barchart(){
+
+}
+function bubblechart(){
+  
+}  
+
 init();
 
 // optionChanged(subject_ids[0]);
