@@ -5,14 +5,6 @@
 
 Create an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogues the microbes that colonise human navels.
 
-### Requirements
-
-* JavaScript
-* HTML
-* Json
-* Plotly
-* D3
-
 ### Instructions
 
 1. Using the D3 library, read in the *samples.json* fromt the URL 
@@ -40,5 +32,17 @@ Create an interactive dashboard to explore the Belly Button Biodiversity dataset
 
 7. Deploy your app to a free static page hosting service such as GitHub pages. 
 
+### Dependencies
+
+* JavaScript
+* HTML
+* Json
+* Plotly
+* D3
+
 ##### see my GitHub page here 
 https://troyfoote.github.io/belly_button_challenge/
+
+### References
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
+
