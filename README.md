@@ -1,4 +1,4 @@
-# belly_button_challenge
+# JavaScript Belly Button Biodiversity Analysis
 
 
 ## Project Description
